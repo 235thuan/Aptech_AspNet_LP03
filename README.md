@@ -1,6 +1,6 @@
 # Aptech_AspNet_LP03
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/235thuan)
-<h2> Hi, I'm Thuan! <a href="https://github.com/235thuan"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><img ' src="https://i.pinimg.com/originals/b0/7c/0f/b07c0fc116d1868db07a8bbc2d79aab9.gif" width="75"></a> </h2>
+<h2> <a href="https://github.com/235thuan"> Hi, I'm Thuan!</a><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><img ' src="https://i.pinimg.com/originals/b0/7c/0f/b07c0fc116d1868db07a8bbc2d79aab9.gif" width="75"> </h2>
 
 <p><em>Student at <a href="https://aptech.fpt.edu.vn/">FPT APTECH<img src="https://aptech.fpt.edu.vn/wp-content/uploads/2024/06/logo-aptech25-nam_759x480.png" width="300" align='right'> 
 </a>
@@ -18,7 +18,7 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 
 **Some of the technologies I have worked with**
 
