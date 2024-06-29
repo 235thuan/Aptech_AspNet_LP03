@@ -8,7 +8,7 @@
 <img src="https://aptech.fpt.edu.vn/wp-content/uploads/2024/06/logo-aptech25-nam_759x480.png" width="300" align='right'> 
 
 </p>
-<p><img align='right' src="https://i.pinimg.com/originals/b0/7c/0f/b07c0fc116d1868db07a8bbc2d79aab9.gif" width="230"> </p>
+<p><img align='right' src="https://i.pinimg.com/originals/b0/7c/0f/b07c0fc116d1868db07a8bbc2d79aab9.gif" width="230"> 
 
 **Languages I have used**
 
@@ -35,6 +35,6 @@
 ![Java Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)<!-- wi*quL3fcV -->
-
+</p>
 
 ⭐️ From [235thuan](https://github.com/235thuan)
