@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|d:\\learn\\fpt-aptech\\semester 3\\asp.net mvc\\projectasp.net\\lp03clientside\\lp03clientside\\data\\appdbcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|solutionrelative:lp03clientside\\data\\appdbcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|d:\\learn\\fpt-aptech\\semester 3\\asp.net mvc\\projectasp.net\\lp03clientside\\lp03clientside\\migrations\\appdbcontextcsmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|solutionrelative:lp03clientside\\migrations\\appdbcontextcsmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|d:\\learn\\fpt-aptech\\semester 3\\asp.net mvc\\projectasp.net\\lp03clientside\\lp03clientside\\models\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|solutionrelative:lp03clientside\\models\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|d:\\learn\\fpt-aptech\\semester 3\\asp.net mvc\\projectasp.net\\lp03clientside\\lp03clientside\\migrations\\20240627133900_userwork3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|solutionrelative:lp03clientside\\migrations\\20240627133900_userwork3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|d:\\learn\\fpt-aptech\\semester 3\\asp.net mvc\\projectasp.net\\lp03clientside\\lp03clientside\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|solutionrelative:lp03clientside\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|d:\\learn\\fpt-aptech\\semester 3\\asp.net mvc\\projectasp.net\\lp03clientside\\lp03clientside\\controllers\\userworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|solutionrelative:lp03clientside\\controllers\\userworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|d:\\learn\\fpt-aptech\\semester 3\\asp.net mvc\\projectasp.net\\lp03clientside\\lp03clientside\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|solutionrelative:lp03clientside\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|d:\\learn\\fpt-aptech\\semester 3\\asp.net mvc\\projectasp.net\\lp03clientside\\lp03clientside\\views\\works\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|solutionrelative:lp03clientside\\views\\works\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|d:\\learn\\fpt-aptech\\semester 3\\asp.net mvc\\projectasp.net\\lp03clientside\\lp03clientside\\views\\works\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|solutionrelative:lp03clientside\\views\\works\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|d:\\learn\\fpt-aptech\\semester 3\\asp.net mvc\\projectasp.net\\lp03clientside\\lp03clientside\\migrations\\20240627124252_userwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|solutionrelative:lp03clientside\\migrations\\20240627124252_userwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|d:\\learn\\fpt-aptech\\semester 3\\asp.net mvc\\projectasp.net\\lp03clientside\\lp03clientside\\controllers\\workscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|solutionrelative:lp03clientside\\controllers\\workscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|d:\\learn\\fpt-aptech\\semester 3\\asp.net mvc\\projectasp.net\\lp03clientside\\lp03clientside\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|solutionrelative:lp03clientside\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|d:\\learn\\fpt-aptech\\semester 3\\asp.net mvc\\projectasp.net\\lp03clientside\\lp03clientside\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|solutionrelative:lp03clientside\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|d:\\learn\\fpt-aptech\\semester 3\\asp.net mvc\\projectasp.net\\lp03clientside\\lp03clientside\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{550991D3-7A42-4365-8965-057AC9A275F0}|LP03ClientSide\\LP03ClientSide.csproj|solutionrelative:lp03clientside\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDBContextcs.cs",
+              "DocumentMoniker": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Data\\AppDBContextcs.cs",
+              "RelativeDocumentMoniker": "LP03ClientSide\\Data\\AppDBContextcs.cs",
+              "ToolTip": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Data\\AppDBContextcs.cs",
+              "RelativeToolTip": "LP03ClientSide\\Data\\AppDBContextcs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:49:35.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDBContextcsModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Migrations\\AppDBContextcsModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LP03ClientSide\\Migrations\\AppDBContextcsModelSnapshot.cs",
+              "ToolTip": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Migrations\\AppDBContextcsModelSnapshot.cs",
+              "RelativeToolTip": "LP03ClientSide\\Migrations\\AppDBContextcsModelSnapshot.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:45:42.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240627133900_UserWork3.cs",
+              "DocumentMoniker": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Migrations\\20240627133900_UserWork3.cs",
+              "RelativeDocumentMoniker": "LP03ClientSide\\Migrations\\20240627133900_UserWork3.cs",
+              "ToolTip": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Migrations\\20240627133900_UserWork3.cs",
+              "RelativeToolTip": "LP03ClientSide\\Migrations\\20240627133900_UserWork3.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:39:00.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Work.cs",
+              "DocumentMoniker": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Models\\Work.cs",
+              "RelativeDocumentMoniker": "LP03ClientSide\\Models\\Work.cs",
+              "ToolTip": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Models\\Work.cs",
+              "RelativeToolTip": "LP03ClientSide\\Models\\Work.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:36:35.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Views\\Works\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LP03ClientSide\\Views\\Works\\Edit.cshtml",
+              "ToolTip": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Views\\Works\\Edit.cshtml",
+              "RelativeToolTip": "LP03ClientSide\\Views\\Works\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T13:28:41.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorksController.cs",
+              "DocumentMoniker": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Controllers\\WorksController.cs",
+              "RelativeDocumentMoniker": "LP03ClientSide\\Controllers\\WorksController.cs",
+              "ToolTip": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Controllers\\WorksController.cs",
+              "RelativeToolTip": "LP03ClientSide\\Controllers\\WorksController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:27:03.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LP03ClientSide\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LP03ClientSide\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAHYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T13:01:46.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserWorkController.cs",
+              "DocumentMoniker": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Controllers\\UserWorkController.cs",
+              "RelativeDocumentMoniker": "LP03ClientSide\\Controllers\\UserWorkController.cs",
+              "ToolTip": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Controllers\\UserWorkController.cs",
+              "RelativeToolTip": "LP03ClientSide\\Controllers\\UserWorkController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:01:28.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LP03ClientSide\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LP03ClientSide\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:48:22.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240627124252_UserWork.cs",
+              "DocumentMoniker": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Migrations\\20240627124252_UserWork.cs",
+              "RelativeDocumentMoniker": "LP03ClientSide\\Migrations\\20240627124252_UserWork.cs",
+              "ToolTip": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Migrations\\20240627124252_UserWork.cs",
+              "RelativeToolTip": "LP03ClientSide\\Migrations\\20240627124252_UserWork.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:42:52.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LP03ClientSide\\Models\\User.cs",
+              "ToolTip": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Models\\User.cs",
+              "RelativeToolTip": "LP03ClientSide\\Models\\User.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAIA1wBcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:07:47.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Views\\Works\\Index.cshtml",
+              "RelativeDocumentMoniker": "LP03ClientSide\\Views\\Works\\Index.cshtml",
+              "ToolTip": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Views\\Works\\Index.cshtml",
+              "RelativeToolTip": "LP03ClientSide\\Views\\Works\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T13:28:42.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Program.cs",
+              "RelativeDocumentMoniker": "LP03ClientSide\\Program.cs",
+              "ToolTip": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\Program.cs",
+              "RelativeToolTip": "LP03ClientSide\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:26:05.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\appsettings.json",
+              "RelativeDocumentMoniker": "LP03ClientSide\\appsettings.json",
+              "ToolTip": "D:\\Learn\\FPT-Aptech\\Semester 3\\asp.net mvc\\ProjectASP.NET\\LP03ClientSide\\LP03ClientSide\\appsettings.json",
+              "RelativeToolTip": "LP03ClientSide\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T12:01:36.334Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
